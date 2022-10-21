@@ -1,0 +1,8 @@
+echo "# FSE100_MasterProject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/alyssad2341/FSE100_MasterProject.git
+git push -u origin main
+git remote add origin https://drive.google.com/drive/folders/1tU1x9SCHOmJutEOFp61a-mbEioQ4_byn?usp=sharing
